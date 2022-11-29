@@ -1,0 +1,40 @@
+C:\Users\techm\source\repos\clearpos\clearpos\bin\Debug\clearpos.exe.config
+C:\Users\techm\source\repos\clearpos\clearpos\bin\Debug\clearpos.exe
+C:\Users\techm\source\repos\clearpos\clearpos\bin\Debug\clearpos.pdb
+C:\Users\techm\source\repos\clearpos\clearpos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\techm\source\repos\clearpos\clearpos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\techm\source\repos\clearpos\clearpos\obj\Debug\clearpos.csproj.CoreCompileInputs.cache
+C:\Users\techm\source\repos\clearpos\clearpos\obj\Debug\clearpos.csproj.CopyComplete
+C:\Users\techm\source\repos\clearpos\clearpos\obj\Debug\clearpos.exe
+C:\Users\techm\source\repos\clearpos\clearpos\obj\Debug\clearpos.pdb
+C:\Users\techm\source\repos\clearpos\clearpos\obj\Debug\clearpos.csproj.AssemblyReference.cache
+C:\API pos\clearpos\clearpos\bin\Debug\clearpos.exe.config
+C:\API pos\clearpos\clearpos\bin\Debug\clearpos.exe
+C:\API pos\clearpos\clearpos\bin\Debug\clearpos.pdb
+C:\API pos\clearpos\clearpos\bin\Debug\Newtonsoft.Json.dll
+C:\API pos\clearpos\clearpos\bin\Debug\Newtonsoft.Json.xml
+C:\API pos\clearpos\clearpos\obj\Debug\clearpos.csproj.AssemblyReference.cache
+C:\API pos\clearpos\clearpos\obj\Debug\clearpos.csproj.CoreCompileInputs.cache
+C:\API pos\clearpos\clearpos\obj\Debug\clearpos.csproj.CopyComplete
+C:\API pos\clearpos\clearpos\obj\Debug\clearpos.exe
+C:\API pos\clearpos\clearpos\obj\Debug\clearpos.pdb
+C:\Users\user\Downloads\clearpos\clearpos\bin\Debug\clearpos.exe.config
+C:\Users\user\Downloads\clearpos\clearpos\bin\Debug\clearpos.exe
+C:\Users\user\Downloads\clearpos\clearpos\bin\Debug\clearpos.pdb
+C:\Users\user\Downloads\clearpos\clearpos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\clearpos\clearpos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\clearpos\clearpos\obj\Debug\clearpos.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\clearpos\clearpos\obj\Debug\clearpos.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\clearpos\clearpos\obj\Debug\clearpos.csproj.CopyComplete
+C:\Users\user\Downloads\clearpos\clearpos\obj\Debug\clearpos.exe
+C:\Users\user\Downloads\clearpos\clearpos\obj\Debug\clearpos.pdb
+C:\API\clearpos\clearpos\bin\Debug\clearpos.exe.config
+C:\API\clearpos\clearpos\bin\Debug\clearpos.exe
+C:\API\clearpos\clearpos\bin\Debug\clearpos.pdb
+C:\API\clearpos\clearpos\bin\Debug\Newtonsoft.Json.dll
+C:\API\clearpos\clearpos\bin\Debug\Newtonsoft.Json.xml
+C:\API\clearpos\clearpos\obj\Debug\clearpos.csproj.AssemblyReference.cache
+C:\API\clearpos\clearpos\obj\Debug\clearpos.csproj.CoreCompileInputs.cache
+C:\API\clearpos\clearpos\obj\Debug\clearpos.csproj.CopyComplete
+C:\API\clearpos\clearpos\obj\Debug\clearpos.exe
+C:\API\clearpos\clearpos\obj\Debug\clearpos.pdb
